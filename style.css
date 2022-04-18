@@ -1,0 +1,23 @@
+.notification {
+  position: relative;
+  border: 1px solid red;
+  width: 150px;
+  text-align: center;
+  padding: 20px;
+  font-weight: bolder;
+  background-color: rgb(143, 38, 38);
+  top: 900px;
+  left: 1600px;
+}
+img {
+  width: 32px;
+  height: 32px;
+}
+
+.close {
+  position: absolute;
+  left: 175px;
+  bottom: 45px;
+  background: none;
+  border: none;
+}
